@@ -1,0 +1,58 @@
+{
+  "uid" : "6a71a909158e96a5",
+  "name" : "When I set \"Bangalore\" to the inputfield \"#city\"",
+  "fullName" : ": Register on the website.When I set \"Bangalore\" to the inputfield \"#city\"",
+  "historyId" : "603ea48edaa48e3682398d5ee7f3b952",
+  "time" : {
+    "start" : 1581967537187,
+    "stop" : 1581967537325,
+    "duration" : 138
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set \"Bangalore\" to the inputfield \"#city\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a71a909158e96a5.json",
+  "parameterValues" : [ "chrome" ]
+}

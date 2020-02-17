@@ -1,0 +1,351 @@
+[ {
+  "uid" : "c3601251d1b837f5",
+  "name" : "When I set \"93829\" to the inputfield \"#postcode\"",
+  "time" : {
+    "start" : 1581967537378,
+    "stop" : 1581967537464,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fe0107f713196ab",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1581967543784,
+    "stop" : 1581967543784,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4181a05e9aa892b6",
+  "name" : "When I click on the button \"#SubmitCreate\"",
+  "time" : {
+    "start" : 1581967534553,
+    "stop" : 1581967534615,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "891a05b366e28755",
+  "name" : "When I select the 2nd option for element \"#uniform-id_state\"",
+  "time" : {
+    "start" : 1581967537325,
+    "stop" : 1581967537378,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "276d3a04cdfc5d1d",
+  "name" : "When I click on the link \"Faded Short Sleeve T-shirts\"",
+  "time" : {
+    "start" : 1581967554358,
+    "stop" : 1581967558415,
+    "duration" : 4057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db614e21530db60d",
+  "name" : "Then I expect that element \"#customer_firstname\" becomes displayed",
+  "time" : {
+    "start" : 1581967534615,
+    "stop" : 1581967536664,
+    "duration" : 2049
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db12110436b3de43",
+  "name" : "Then I expect that element \".account\" with text \"A B\"",
+  "time" : {
+    "start" : 1581967540621,
+    "stop" : 1581967540642,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53c5e90d1d521d4e",
+  "name" : "Then I expect that element \".myaccount-link-list\" becomes displayed",
+  "time" : {
+    "start" : 1581967551372,
+    "stop" : 1581967551387,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "212884b334a0e37f",
+  "name" : "When I click on the link \"Sign in\"",
+  "time" : {
+    "start" : 1581967531440,
+    "stop" : 1581967532852,
+    "duration" : 1412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb2512e048f13828",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1581967558415,
+    "stop" : 1581967558415,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa903cb2b04c0fae",
+  "name" : "When I set \"A\" to the inputfield \"#customer_firstname\"",
+  "time" : {
+    "start" : 1581967536664,
+    "stop" : 1581967536763,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1999d8689537ec",
+  "name" : "When I click on the button \".button-search\"",
+  "time" : {
+    "start" : 1581967551474,
+    "stop" : 1581967554358,
+    "duration" : 2884
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fb92bc97fb92df5",
+  "name" : "Then I expect that element \"#email_create\" becomes displayed",
+  "time" : {
+    "start" : 1581967532865,
+    "stop" : 1581967534395,
+    "duration" : 1530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "638937ab6e5dfbea",
+  "name" : "Given I open the url \"http://automationpractice.com/index.php\"",
+  "time" : {
+    "start" : 1581967543797,
+    "stop" : 1581967546216,
+    "duration" : 2419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0b755bdef61bb4c",
+  "name" : "Then I expect that the title is \"Login - My Store\"",
+  "time" : {
+    "start" : 1581967548510,
+    "stop" : 1581967548526,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26378f2c6c590059",
+  "name" : "When I set \"9382989299\" to the inputfield \"#phone_mobile\"",
+  "time" : {
+    "start" : 1581967537464,
+    "stop" : 1581967537576,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2ced14aa8d0c17b",
+  "name" : "Then I expect that element \".logout\" becomes displayed",
+  "time" : {
+    "start" : 1581967540607,
+    "stop" : 1581967540621,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c7859f06046b079",
+  "name" : "When I set \"A\" to the inputfield \"#firstname\"",
+  "time" : {
+    "start" : 1581967536926,
+    "stop" : 1581967537009,
+    "duration" : 83
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a58f5b7a6bb00753",
+  "name" : "When I set \"B\" to the inputfield \"#lastname\"",
+  "time" : {
+    "start" : 1581967537009,
+    "stop" : 1581967537101,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66de155fda8893dd",
+  "name" : "When I set \"testp@gmail.com\" to the inputfield \"#email_create\"",
+  "time" : {
+    "start" : 1581967534395,
+    "stop" : 1581967534553,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2637eafd7c02b389",
+  "name" : "When I set \"Shirts\" to the inputfield \"#search_query_top\"",
+  "time" : {
+    "start" : 1581967551388,
+    "stop" : 1581967551474,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f817f14203a3ce07",
+  "name" : "When I set \"123456\" to the inputfield \"#passwd\"",
+  "time" : {
+    "start" : 1581967549161,
+    "stop" : 1581967549237,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd8fd479bf7bb9d7",
+  "name" : "When I set \"MA Address\" to the inputfield \"#alias\"",
+  "time" : {
+    "start" : 1581967537576,
+    "stop" : 1581967537672,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca6d0a8024d74538",
+  "name" : "When I set \"123456\" to the inputfield \"#passwd\"",
+  "time" : {
+    "start" : 1581967536832,
+    "stop" : 1581967536926,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df83b6d6737cf49c",
+  "name" : "When I click on the link \"Sign in\"",
+  "time" : {
+    "start" : 1581967546216,
+    "stop" : 1581967548510,
+    "duration" : 2294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a3dc12d00a93df3",
+  "name" : "Given I open the url \"http://automationpractice.com/index.php\"",
+  "time" : {
+    "start" : 1581967521929,
+    "stop" : 1581967531440,
+    "duration" : 9511
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a71a909158e96a5",
+  "name" : "When I set \"Bangalore\" to the inputfield \"#city\"",
+  "time" : {
+    "start" : 1581967537187,
+    "stop" : 1581967537325,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2ed1a0200763a08",
+  "name" : "When I click on the button \"#SubmitLogin\"",
+  "time" : {
+    "start" : 1581967549237,
+    "stop" : 1581967551372,
+    "duration" : 2135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a0fe8d95261eb68",
+  "name" : "When I click on the button \"#submitAccount\"",
+  "time" : {
+    "start" : 1581967537672,
+    "stop" : 1581967540607,
+    "duration" : 2935
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdcb6e51614a766c",
+  "name" : "When I set \"India\" to the inputfield \"#address1\"",
+  "time" : {
+    "start" : 1581967537101,
+    "stop" : 1581967537187,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89a141ca8b89d643",
+  "name" : "When I set \"B\" to the inputfield \"#customer_lastname\"",
+  "time" : {
+    "start" : 1581967536763,
+    "stop" : 1581967536832,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44f04861cc6b4666",
+  "name" : "When I click on the element \".logout\"",
+  "time" : {
+    "start" : 1581967540642,
+    "stop" : 1581967543784,
+    "duration" : 3142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ddb95521fe563ef",
+  "name" : "Then I expect that the title is \"Login - My Store\"",
+  "time" : {
+    "start" : 1581967532852,
+    "stop" : 1581967532865,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f02a30818c02e06",
+  "name" : "When I set \"testp@gmail.com\" to the inputfield \"#email\"",
+  "time" : {
+    "start" : 1581967549062,
+    "stop" : 1581967549161,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dca189a0f998e85f",
+  "name" : "Then I expect that element \"#email\" becomes displayed",
+  "time" : {
+    "start" : 1581967548526,
+    "stop" : 1581967549062,
+    "duration" : 536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

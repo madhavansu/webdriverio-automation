@@ -1,0 +1,58 @@
+{
+  "uid" : "f0b755bdef61bb4c",
+  "name" : "Then I expect that the title is \"Login - My Store\"",
+  "fullName" : ": Checkout a product.Then I expect that the title is \"Login - My Store\"",
+  "historyId" : "1ed67bbe3ca00cde33a253e82f192c75",
+  "time" : {
+    "start" : 1581967548510,
+    "stop" : 1581967548526,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testClass",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect that the title is \"Login - My Store\""
+  }, {
+    "name" : "package",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0b755bdef61bb4c.json",
+  "parameterValues" : [ "chrome" ]
+}

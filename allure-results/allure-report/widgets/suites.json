@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "d8cf2a912e45992f18cd3973f731237e",
+    "name" : ": Register on the website",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    }
+  }, {
+    "uid" : "ecd58484741fff4d12830c8dde182070",
+    "name" : ": Checkout a product",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    }
+  } ]
+}

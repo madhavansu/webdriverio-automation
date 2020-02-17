@@ -1,0 +1,58 @@
+{
+  "uid" : "dca189a0f998e85f",
+  "name" : "Then I expect that element \"#email\" becomes displayed",
+  "fullName" : ": Checkout a product.Then I expect that element \"#email\" becomes displayed",
+  "historyId" : "965bff66f0b6854ecb3fb5d8c2bfa46f",
+  "time" : {
+    "start" : 1581967548526,
+    "stop" : 1581967549062,
+    "duration" : 536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testClass",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect that element \"#email\" becomes displayed"
+  }, {
+    "name" : "package",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dca189a0f998e85f.json",
+  "parameterValues" : [ "chrome" ]
+}

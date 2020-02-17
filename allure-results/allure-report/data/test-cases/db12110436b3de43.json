@@ -1,0 +1,58 @@
+{
+  "uid" : "db12110436b3de43",
+  "name" : "Then I expect that element \".account\" with text \"A B\"",
+  "fullName" : ": Register on the website.Then I expect that element \".account\" with text \"A B\"",
+  "historyId" : "3506e559275dd654191f6773412917a1",
+  "time" : {
+    "start" : 1581967540621,
+    "stop" : 1581967540642,
+    "duration" : 21
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect that element \".account\" with text \"A B\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db12110436b3de43.json",
+  "parameterValues" : [ "chrome" ]
+}

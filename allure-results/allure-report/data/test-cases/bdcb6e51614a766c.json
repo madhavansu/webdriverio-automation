@@ -1,0 +1,58 @@
+{
+  "uid" : "bdcb6e51614a766c",
+  "name" : "When I set \"India\" to the inputfield \"#address1\"",
+  "fullName" : ": Register on the website.When I set \"India\" to the inputfield \"#address1\"",
+  "historyId" : "c92aaa827df125973b6037c51d96fc13",
+  "time" : {
+    "start" : 1581967537101,
+    "stop" : 1581967537187,
+    "duration" : 86
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set \"India\" to the inputfield \"#address1\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdcb6e51614a766c.json",
+  "parameterValues" : [ "chrome" ]
+}
