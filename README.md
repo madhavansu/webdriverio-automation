@@ -1,6 +1,12 @@
 Webdriverio Automation
 ====================
 
+## Allure Report
+[https://madhavansu.github.io/webdriverio-automation/](https://madhavansu.github.io/webdriverio-automation/)
+
+## Used website for automation testing and report
+[http://automationpractice.com/](http://automationpractice.com/)
+
 ## Quick start
 
 Choose one of the following options:

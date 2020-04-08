@@ -1,0 +1,58 @@
+{
+  "uid" : "d26de4ed8a4a6f9b",
+  "name" : "Given I open the url \"http://automationpractice.com/index.php\"",
+  "fullName" : ": Register on the website.Given I open the url \"http://automationpractice.com/index.php\"",
+  "historyId" : "884021ff316791b625a03a05ae221520",
+  "time" : {
+    "start" : 1586362075184,
+    "stop" : 1586362083386,
+    "duration" : 8202
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open the url \"http://automationpractice.com/index.php\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d26de4ed8a4a6f9b.json",
+  "parameterValues" : [ "chrome" ]
+}

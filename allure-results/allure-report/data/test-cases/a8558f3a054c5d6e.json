@@ -1,0 +1,58 @@
+{
+  "uid" : "a8558f3a054c5d6e",
+  "name" : "Then I expect that element \".myaccount-link-list\" becomes displayed",
+  "fullName" : ": Checkout a product.Then I expect that element \".myaccount-link-list\" becomes displayed",
+  "historyId" : "af5fa6c2b19852c8903614ef0d1ca4f7",
+  "time" : {
+    "start" : 1586362108133,
+    "stop" : 1586362108146,
+    "duration" : 13
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testClass",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect that element \".myaccount-link-list\" becomes displayed"
+  }, {
+    "name" : "package",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8558f3a054c5d6e.json",
+  "parameterValues" : [ "chrome" ]
+}

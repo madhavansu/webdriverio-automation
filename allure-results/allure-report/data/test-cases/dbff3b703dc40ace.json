@@ -1,0 +1,58 @@
+{
+  "uid" : "dbff3b703dc40ace",
+  "name" : "When I click on the button \"#SubmitCreate\"",
+  "fullName" : ": Register on the website.When I click on the button \"#SubmitCreate\"",
+  "historyId" : "4a001eb820c4b53b2811b3eab95d0531",
+  "time" : {
+    "start" : 1586362088212,
+    "stop" : 1586362088278,
+    "duration" : 66
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the button \"#SubmitCreate\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbff3b703dc40ace.json",
+  "parameterValues" : [ "chrome" ]
+}

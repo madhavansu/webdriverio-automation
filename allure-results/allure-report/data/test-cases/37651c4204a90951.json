@@ -1,0 +1,58 @@
+{
+  "uid" : "37651c4204a90951",
+  "name" : "Given I open the url \"http://automationpractice.com/index.php\"",
+  "fullName" : ": Checkout a product.Given I open the url \"http://automationpractice.com/index.php\"",
+  "historyId" : "77c17cae542e9033685e324341de9922",
+  "time" : {
+    "start" : 1586362099683,
+    "stop" : 1586362103372,
+    "duration" : 3689
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testClass",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open the url \"http://automationpractice.com/index.php\""
+  }, {
+    "name" : "package",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37651c4204a90951.json",
+  "parameterValues" : [ "chrome" ]
+}

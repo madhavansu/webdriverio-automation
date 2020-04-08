@@ -1,0 +1,66 @@
+{
+  "uid" : "5fee89b77288f7d5",
+  "name" : "Hook",
+  "fullName" : ": Register on the website.Hook",
+  "historyId" : "6bfcbe91a599ce7f098172645cf14dba",
+  "time" : {
+    "start" : 1586362099667,
+    "stop" : 1586362099667,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5465ea65cd0700e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586362075181,
+        "stop" : 1586362075183,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fee89b77288f7d5.json",
+  "parameterValues" : [ "chrome" ]
+}
