@@ -1,0 +1,58 @@
+{
+  "uid" : "4f97429405184aa2",
+  "name" : "When I click on the element \".logout\"",
+  "fullName" : ": Checkout a product.When I click on the element \".logout\"",
+  "historyId" : "b41b267314b9b1b8d411bb56e13b04ea",
+  "time" : {
+    "start" : 1586360840371,
+    "stop" : 1586360846436,
+    "duration" : 6065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testClass",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the element \".logout\""
+  }, {
+    "name" : "package",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f97429405184aa2.json",
+  "parameterValues" : [ "chrome" ]
+}

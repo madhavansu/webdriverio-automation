@@ -1,0 +1,58 @@
+{
+  "uid" : "dc8e50215544c2ee",
+  "name" : "When I click on the element \".logout\"",
+  "fullName" : ": Register on the website.When I click on the element \".logout\"",
+  "historyId" : "7fb76c252230bd48f7b4ca42bc1fa7c8",
+  "time" : {
+    "start" : 1586360810341,
+    "stop" : 1586360817945,
+    "duration" : 7604
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the element \".logout\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc8e50215544c2ee.json",
+  "parameterValues" : [ "chrome" ]
+}

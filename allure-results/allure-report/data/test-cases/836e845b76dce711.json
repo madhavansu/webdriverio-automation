@@ -1,0 +1,58 @@
+{
+  "uid" : "836e845b76dce711",
+  "name" : "When I click on the button \"#SubmitLogin\"",
+  "fullName" : ": Checkout a product.When I click on the button \"#SubmitLogin\"",
+  "historyId" : "6dbd59485cb4640c07e8ba0b457359c4",
+  "time" : {
+    "start" : 1586360824856,
+    "stop" : 1586360829807,
+    "duration" : 4951
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testClass",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the button \"#SubmitLogin\""
+  }, {
+    "name" : "package",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "836e845b76dce711.json",
+  "parameterValues" : [ "chrome" ]
+}

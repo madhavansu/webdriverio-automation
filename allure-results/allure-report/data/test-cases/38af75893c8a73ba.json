@@ -1,0 +1,58 @@
+{
+  "uid" : "38af75893c8a73ba",
+  "name" : "When I set \"123456\" to the inputfield \"#passwd\"",
+  "fullName" : ": Checkout a product.When I set \"123456\" to the inputfield \"#passwd\"",
+  "historyId" : "dcfc329456bfebd1312cf08044c0a974",
+  "time" : {
+    "start" : 1586360824779,
+    "stop" : 1586360824856,
+    "duration" : 77
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testClass",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set \"123456\" to the inputfield \"#passwd\""
+  }, {
+    "name" : "package",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38af75893c8a73ba.json",
+  "parameterValues" : [ "chrome" ]
+}

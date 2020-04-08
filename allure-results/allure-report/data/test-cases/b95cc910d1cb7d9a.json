@@ -1,0 +1,58 @@
+{
+  "uid" : "b95cc910d1cb7d9a",
+  "name" : "When I set \"MA Address\" to the inputfield \"#alias\"",
+  "fullName" : ": Register on the website.When I set \"MA Address\" to the inputfield \"#alias\"",
+  "historyId" : "d820a01e3b4bf0a904824b1d2518f2c",
+  "time" : {
+    "start" : 1586360806351,
+    "stop" : 1586360806454,
+    "duration" : 103
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set \"MA Address\" to the inputfield \"#alias\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b95cc910d1cb7d9a.json",
+  "parameterValues" : [ "chrome" ]
+}

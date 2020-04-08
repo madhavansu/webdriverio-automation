@@ -1,0 +1,58 @@
+{
+  "uid" : "ee5b2d1f3134b508",
+  "name" : "When I set email \"testq@gmail.com\" to the inputfield \"#email_create\"",
+  "fullName" : ": Register on the website.When I set email \"testq@gmail.com\" to the inputfield \"#email_create\"",
+  "historyId" : "994080635b1a0005bbad7aec33b85d09",
+  "time" : {
+    "start" : 1586360802706,
+    "stop" : 1586360802864,
+    "duration" : 158
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set email \"testq@gmail.com\" to the inputfield \"#email_create\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee5b2d1f3134b508.json",
+  "parameterValues" : [ "chrome" ]
+}

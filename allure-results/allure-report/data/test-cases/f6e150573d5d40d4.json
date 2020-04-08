@@ -1,0 +1,58 @@
+{
+  "uid" : "f6e150573d5d40d4",
+  "name" : "When I set \"testp@gmail.com\" to the inputfield \"#email\"",
+  "fullName" : ": Checkout a product.When I set \"testp@gmail.com\" to the inputfield \"#email\"",
+  "historyId" : "4b880ce787107ee89e4c455113afff32",
+  "time" : {
+    "start" : 1586360824650,
+    "stop" : 1586360824779,
+    "duration" : 129
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testClass",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set \"testp@gmail.com\" to the inputfield \"#email\""
+  }, {
+    "name" : "package",
+    "value" : ": Checkout a product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6e150573d5d40d4.json",
+  "parameterValues" : [ "chrome" ]
+}

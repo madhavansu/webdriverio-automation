@@ -5,38 +5,38 @@
     "name" : ": Register on the website",
     "children" : [ {
       "name" : "Given I open the url \"http://automationpractice.com/index.php\"",
-      "uid" : "7a3dc12d00a93df3",
+      "uid" : "984643d6a87f9061",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967521929,
-        "stop" : 1581967531440,
-        "duration" : 9511
+        "start" : 1586360786939,
+        "stop" : 1586360798908,
+        "duration" : 11969
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "When I click on the link \"Sign in\"",
-      "uid" : "212884b334a0e37f",
+      "uid" : "89de45055ef44a70",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967531440,
-        "stop" : 1581967532852,
-        "duration" : 1412
+        "start" : 1586360798908,
+        "stop" : 1586360801158,
+        "duration" : 2250
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then I expect that the title is \"Login - My Store\"",
-      "uid" : "6ddb95521fe563ef",
+      "uid" : "9a948dea15f4dafa",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967532852,
-        "stop" : 1581967532865,
+        "start" : 1586360801158,
+        "stop" : 1586360801171,
         "duration" : 13
       },
       "flaky" : false,
@@ -44,25 +44,25 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then I expect that element \"#email_create\" becomes displayed",
-      "uid" : "7fb92bc97fb92df5",
+      "uid" : "27e52e44697ec5d7",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967532865,
-        "stop" : 1581967534395,
-        "duration" : 1530
+        "start" : 1586360801171,
+        "stop" : 1586360802706,
+        "duration" : 1535
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
-      "name" : "When I set \"testp@gmail.com\" to the inputfield \"#email_create\"",
-      "uid" : "66de155fda8893dd",
+      "name" : "When I set email \"testq@gmail.com\" to the inputfield \"#email_create\"",
+      "uid" : "ee5b2d1f3134b508",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967534395,
-        "stop" : 1581967534553,
+        "start" : 1586360802706,
+        "stop" : 1586360802864,
         "duration" : 158
       },
       "flaky" : false,
@@ -70,234 +70,234 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "When I click on the button \"#SubmitCreate\"",
-      "uid" : "4181a05e9aa892b6",
+      "uid" : "52f056eb3c687ac",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967534553,
-        "stop" : 1581967534615,
-        "duration" : 62
+        "start" : 1586360802864,
+        "stop" : 1586360802932,
+        "duration" : 68
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then I expect that element \"#customer_firstname\" becomes displayed",
-      "uid" : "db614e21530db60d",
+      "uid" : "2eeea4061b1f3ef6",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967534615,
-        "stop" : 1581967536664,
-        "duration" : 2049
+        "start" : 1586360802932,
+        "stop" : 1586360805456,
+        "duration" : 2524
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "When I set \"A\" to the inputfield \"#customer_firstname\"",
-      "uid" : "aa903cb2b04c0fae",
+      "uid" : "d5d1aab9b195a348",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967536664,
-        "stop" : 1581967536763,
-        "duration" : 99
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"B\" to the inputfield \"#customer_lastname\"",
-      "uid" : "89a141ca8b89d643",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967536763,
-        "stop" : 1581967536832,
-        "duration" : 69
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"123456\" to the inputfield \"#passwd\"",
-      "uid" : "ca6d0a8024d74538",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967536832,
-        "stop" : 1581967536926,
-        "duration" : 94
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"A\" to the inputfield \"#firstname\"",
-      "uid" : "8c7859f06046b079",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967536926,
-        "stop" : 1581967537009,
-        "duration" : 83
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"B\" to the inputfield \"#lastname\"",
-      "uid" : "a58f5b7a6bb00753",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967537009,
-        "stop" : 1581967537101,
-        "duration" : 92
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"India\" to the inputfield \"#address1\"",
-      "uid" : "bdcb6e51614a766c",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967537101,
-        "stop" : 1581967537187,
-        "duration" : 86
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"Bangalore\" to the inputfield \"#city\"",
-      "uid" : "6a71a909158e96a5",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967537187,
-        "stop" : 1581967537325,
-        "duration" : 138
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I select the 2nd option for element \"#uniform-id_state\"",
-      "uid" : "891a05b366e28755",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967537325,
-        "stop" : 1581967537378,
-        "duration" : 53
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"93829\" to the inputfield \"#postcode\"",
-      "uid" : "c3601251d1b837f5",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967537378,
-        "stop" : 1581967537464,
-        "duration" : 86
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"9382989299\" to the inputfield \"#phone_mobile\"",
-      "uid" : "26378f2c6c590059",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967537464,
-        "stop" : 1581967537576,
-        "duration" : 112
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"MA Address\" to the inputfield \"#alias\"",
-      "uid" : "cd8fd479bf7bb9d7",
-      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967537576,
-        "stop" : 1581967537672,
+        "start" : 1586360805456,
+        "stop" : 1586360805552,
         "duration" : 96
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
-      "name" : "When I click on the button \"#submitAccount\"",
-      "uid" : "4a0fe8d95261eb68",
+      "name" : "When I set \"B\" to the inputfield \"#customer_lastname\"",
+      "uid" : "eaa8cb14628d0322",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967537672,
-        "stop" : 1581967540607,
-        "duration" : 2935
+        "start" : 1586360805553,
+        "stop" : 1586360805620,
+        "duration" : 67
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"123456\" to the inputfield \"#passwd\"",
+      "uid" : "c8d9ef0bc580d1bb",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360805620,
+        "stop" : 1586360805693,
+        "duration" : 73
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"A\" to the inputfield \"#firstname\"",
+      "uid" : "37537136955c288b",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360805693,
+        "stop" : 1586360805849,
+        "duration" : 156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"B\" to the inputfield \"#lastname\"",
+      "uid" : "95d23ad2dd8f67b1",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360805849,
+        "stop" : 1586360805927,
+        "duration" : 78
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"India\" to the inputfield \"#address1\"",
+      "uid" : "a942e855005ab4b4",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360805927,
+        "stop" : 1586360806014,
+        "duration" : 87
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"Bangalore\" to the inputfield \"#city\"",
+      "uid" : "d90188bac27cba39",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360806014,
+        "stop" : 1586360806095,
+        "duration" : 81
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I select the 2nd option for element \"#uniform-id_state\"",
+      "uid" : "c866f47ed297cbdb",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360806095,
+        "stop" : 1586360806136,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"93829\" to the inputfield \"#postcode\"",
+      "uid" : "1d5a674e7420a2c4",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360806136,
+        "stop" : 1586360806242,
+        "duration" : 106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"9382989299\" to the inputfield \"#phone_mobile\"",
+      "uid" : "22e26f01f40c4725",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360806242,
+        "stop" : 1586360806351,
+        "duration" : 109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"MA Address\" to the inputfield \"#alias\"",
+      "uid" : "b95cc910d1cb7d9a",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360806351,
+        "stop" : 1586360806454,
+        "duration" : 103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on the button \"#submitAccount\"",
+      "uid" : "4a30570f4f7be9c8",
+      "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360806454,
+        "stop" : 1586360810304,
+        "duration" : 3850
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then I expect that element \".logout\" becomes displayed",
-      "uid" : "a2ced14aa8d0c17b",
+      "uid" : "6aced970debba6cb",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967540607,
-        "stop" : 1581967540621,
-        "duration" : 14
+        "start" : 1586360810305,
+        "stop" : 1586360810318,
+        "duration" : 13
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then I expect that element \".account\" with text \"A B\"",
-      "uid" : "db12110436b3de43",
+      "uid" : "c0191d7b8220643f",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967540621,
-        "stop" : 1581967540642,
-        "duration" : 21
+        "start" : 1586360810318,
+        "stop" : 1586360810341,
+        "duration" : 23
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "When I click on the element \".logout\"",
-      "uid" : "44f04861cc6b4666",
+      "uid" : "dc8e50215544c2ee",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967540642,
-        "stop" : 1581967543784,
-        "duration" : 3142
+        "start" : 1586360810341,
+        "stop" : 1586360817945,
+        "duration" : 7604
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Hook",
-      "uid" : "5fe0107f713196ab",
+      "uid" : "c2919467667f76ce",
       "parentUid" : "9ba4ce4f3f756be2209665a30e802e7c",
       "status" : "passed",
       "time" : {
-        "start" : 1581967543784,
-        "stop" : 1581967543784,
-        "duration" : 0
+        "start" : 1586360817945,
+        "stop" : 1586360817946,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
@@ -308,155 +308,168 @@
     "name" : ": Checkout a product",
     "children" : [ {
       "name" : "Given I open the url \"http://automationpractice.com/index.php\"",
-      "uid" : "638937ab6e5dfbea",
+      "uid" : "97d90d4df2229c9",
       "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
       "status" : "passed",
       "time" : {
-        "start" : 1581967543797,
-        "stop" : 1581967546216,
-        "duration" : 2419
+        "start" : 1586360817961,
+        "stop" : 1586360821755,
+        "duration" : 3794
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "When I click on the link \"Sign in\"",
-      "uid" : "df83b6d6737cf49c",
+      "uid" : "f980b5db9c4e7504",
       "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
       "status" : "passed",
       "time" : {
-        "start" : 1581967546216,
-        "stop" : 1581967548510,
-        "duration" : 2294
+        "start" : 1586360821755,
+        "stop" : 1586360824113,
+        "duration" : 2358
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then I expect that the title is \"Login - My Store\"",
-      "uid" : "f0b755bdef61bb4c",
+      "uid" : "9ac2160a535be69c",
       "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
       "status" : "passed",
       "time" : {
-        "start" : 1581967548510,
-        "stop" : 1581967548526,
-        "duration" : 16
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "Then I expect that element \"#email\" becomes displayed",
-      "uid" : "dca189a0f998e85f",
-      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967548526,
-        "stop" : 1581967549062,
-        "duration" : 536
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"testp@gmail.com\" to the inputfield \"#email\"",
-      "uid" : "6f02a30818c02e06",
-      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967549062,
-        "stop" : 1581967549161,
-        "duration" : 99
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I set \"123456\" to the inputfield \"#passwd\"",
-      "uid" : "f817f14203a3ce07",
-      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967549161,
-        "stop" : 1581967549237,
-        "duration" : 76
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "When I click on the button \"#SubmitLogin\"",
-      "uid" : "e2ed1a0200763a08",
-      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967549237,
-        "stop" : 1581967551372,
-        "duration" : 2135
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome" ]
-    }, {
-      "name" : "Then I expect that element \".myaccount-link-list\" becomes displayed",
-      "uid" : "53c5e90d1d521d4e",
-      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581967551372,
-        "stop" : 1581967551387,
+        "start" : 1586360824113,
+        "stop" : 1586360824128,
         "duration" : 15
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
-      "name" : "When I set \"Shirts\" to the inputfield \"#search_query_top\"",
-      "uid" : "2637eafd7c02b389",
+      "name" : "Then I expect that element \"#email\" becomes displayed",
+      "uid" : "45f45d809e87534e",
       "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
       "status" : "passed",
       "time" : {
-        "start" : 1581967551388,
-        "stop" : 1581967551474,
-        "duration" : 86
+        "start" : 1586360824128,
+        "stop" : 1586360824650,
+        "duration" : 522
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"testp@gmail.com\" to the inputfield \"#email\"",
+      "uid" : "f6e150573d5d40d4",
+      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360824650,
+        "stop" : 1586360824779,
+        "duration" : 129
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"123456\" to the inputfield \"#passwd\"",
+      "uid" : "38af75893c8a73ba",
+      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360824779,
+        "stop" : 1586360824856,
+        "duration" : 77
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on the button \"#SubmitLogin\"",
+      "uid" : "836e845b76dce711",
+      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360824856,
+        "stop" : 1586360829807,
+        "duration" : 4951
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I expect that element \".myaccount-link-list\" becomes displayed",
+      "uid" : "3cc70e4541539c6c",
+      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360829807,
+        "stop" : 1586360829823,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I set \"Shirts\" to the inputfield \"#search_query_top\"",
+      "uid" : "b3be6cfffac68f96",
+      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360829823,
+        "stop" : 1586360829911,
+        "duration" : 88
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "When I click on the button \".button-search\"",
-      "uid" : "c1999d8689537ec",
+      "uid" : "2351cad11be796f5",
       "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
       "status" : "passed",
       "time" : {
-        "start" : 1581967551474,
-        "stop" : 1581967554358,
-        "duration" : 2884
+        "start" : 1586360829911,
+        "stop" : 1586360834327,
+        "duration" : 4416
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "When I click on the link \"Faded Short Sleeve T-shirts\"",
-      "uid" : "276d3a04cdfc5d1d",
+      "uid" : "c5971d016892c847",
       "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
       "status" : "passed",
       "time" : {
-        "start" : 1581967554358,
-        "stop" : 1581967558415,
-        "duration" : 4057
+        "start" : 1586360834328,
+        "stop" : 1586360840371,
+        "duration" : 6043
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on the element \".logout\"",
+      "uid" : "4f97429405184aa2",
+      "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586360840371,
+        "stop" : 1586360846436,
+        "duration" : 6065
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Hook",
-      "uid" : "cb2512e048f13828",
+      "uid" : "894d051e1c310ba9",
       "parentUid" : "6619f663cd6bce5ecbe58621f97e76bd",
       "status" : "passed",
       "time" : {
-        "start" : 1581967558415,
-        "stop" : 1581967558415,
+        "start" : 1586360846436,
+        "stop" : 1586360846436,
         "duration" : 0
       },
       "flaky" : false,

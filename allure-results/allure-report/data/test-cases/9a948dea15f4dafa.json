@@ -1,0 +1,58 @@
+{
+  "uid" : "9a948dea15f4dafa",
+  "name" : "Then I expect that the title is \"Login - My Store\"",
+  "fullName" : ": Register on the website.Then I expect that the title is \"Login - My Store\"",
+  "historyId" : "9b10fb432788496c99bd7582072acd7b",
+  "time" : {
+    "start" : 1586360801158,
+    "stop" : 1586360801171,
+    "duration" : 13
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testClass",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect that the title is \"Login - My Store\""
+  }, {
+    "name" : "package",
+    "value" : ": Register on the website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a948dea15f4dafa.json",
+  "parameterValues" : [ "chrome" ]
+}
